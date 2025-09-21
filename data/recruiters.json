@@ -1,0 +1,21 @@
+[
+  {
+    "email": "darshanchannegowda21@gmail.com",
+    "name": "Darshan C",
+    "company": "Sandevex",
+    "_id": "2066f26f-225f-42f5-b822-62a3d9ad9570",
+    "api_key": "a7356ce021ce4ac98c285258ba1aa83e",
+    "created_at": "2025-09-20T19:25:39.601786"
+  },
+  {
+    "_id": "2932bdc4-46c4-4b74-b78b-efb713cd96e1",
+    "email": "darshan@gmail.com",
+    "name": "Darshan",
+    "company": "Innomatics Research Labs",
+    "salt": "c1415a8a90e53121",
+    "password_hash": "d11bfebd1baa1056b77973f42397efb99979bc13daf88ed6156f2157d43344fc",
+    "emp_api_key": "820dbf5b79ac4f7a2eb7975cf3a6ff1fa6f2695e5a6d3af5",
+    "role": "employee",
+    "created_at": "2025-09-20T19:41:01.117010"
+  }
+]

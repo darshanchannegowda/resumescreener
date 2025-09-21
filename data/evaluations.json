@@ -1,0 +1,4438 @@
+[
+  {
+    "resume_id": "ca2dc0c0-aecf-4c6b-b89a-550d9b7bacb3",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ]
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider acquiring or highlighting these missing skills through courses or projects."
+      ]
+    },
+    "_id": "741fde7b-602e-44bf-9283-52b9f681cabb",
+    "evaluated_at": "2025-09-20T18:26:19.824702"
+  },
+  {
+    "resume_id": "fd003c9d-d949-4538-89c2-8aa6c53edf74",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 66.68,
+    "hard_match_score": 90.0,
+    "soft_match_score": 51.14,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": []
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Strong match with required skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "903c8847-6a17-4164-b2ac-3cdb08272b95",
+    "evaluated_at": "2025-09-20T18:39:14.066857"
+  },
+  {
+    "resume_id": "ca2dc0c0-aecf-4c6b-b89a-550d9b7bacb3",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "964b5877-471c-4e09-8ff6-3acd5919e0e2",
+    "evaluated_at": "2025-09-20T20:57:14.130669"
+  },
+  {
+    "resume_id": "ef2da79d-1b34-4f5a-8283-3f1f45274950",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "66e2844a-4635-4108-aca2-fb6debd27f5b",
+    "evaluated_at": "2025-09-20T20:57:43.831525"
+  },
+  {
+    "resume_id": "2c1101e2-2df7-4372-b24b-a4b1daebacbb",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 77.38,
+    "hard_match_score": 100.0,
+    "soft_match_score": 62.3,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "5e5527e0-2bd4-4043-b69f-905ed49562f4",
+    "evaluated_at": "2025-09-20T20:57:43.833779"
+  },
+  {
+    "resume_id": "4850e233-ae16-4ff6-bd3f-e7855b889886",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "5da0364f-b1ad-4902-a8b5-5ea157685fb9",
+    "evaluated_at": "2025-09-20T20:57:43.835779"
+  },
+  {
+    "resume_id": "b984f52f-bbdb-455f-a130-83ca19672444",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "bf7a0604-4a4c-4136-919a-c12a48ef7acd",
+    "evaluated_at": "2025-09-20T20:57:43.837943"
+  },
+  {
+    "resume_id": "fd003c9d-d949-4538-89c2-8aa6c53edf74",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 66.68,
+    "hard_match_score": 90.0,
+    "soft_match_score": 51.14,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "9cb1e160-ffe3-40a9-95e6-2c568b7f8203",
+    "evaluated_at": "2025-09-20T20:57:43.839447"
+  },
+  {
+    "resume_id": "1181d9f7-fef1-4b86-84e6-047c4ea22b1c",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "29334e27-785e-489c-9b58-3bf96a0253f0",
+    "evaluated_at": "2025-09-20T20:57:43.840889"
+  },
+  {
+    "resume_id": "ca2dc0c0-aecf-4c6b-b89a-550d9b7bacb3",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "58eb806c-2828-4073-af35-713c72e8d311",
+    "evaluated_at": "2025-09-20T20:57:43.842980"
+  },
+  {
+    "resume_id": "d6121b25-66ef-4660-a7ed-bbb2a45c8e9d",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "fad9a215-2c30-4822-b3f8-db75b6b398e8",
+    "evaluated_at": "2025-09-20T20:57:43.845048"
+  },
+  {
+    "resume_id": "5c3d3892-028c-4b28-a26d-97e4ada8a0c9",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "759148c8-0ab6-4bf5-a18a-cb6cf1dc0b29",
+    "evaluated_at": "2025-09-20T20:57:43.850030"
+  },
+  {
+    "resume_id": "ef2da79d-1b34-4f5a-8283-3f1f45274950",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "10c175e2-2c31-4ff6-9ec9-44f20d442c74",
+    "evaluated_at": "2025-09-20T21:02:05.826561"
+  },
+  {
+    "resume_id": "ef2da79d-1b34-4f5a-8283-3f1f45274950",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "40797511-3843-430c-a05d-6bf3cf637b31",
+    "evaluated_at": "2025-09-20T21:04:07.243453"
+  },
+  {
+    "resume_id": "2c1101e2-2df7-4372-b24b-a4b1daebacbb",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 77.38,
+    "hard_match_score": 100.0,
+    "soft_match_score": 62.3,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "0896f869-6e84-4abb-8103-b811dfcde5a4",
+    "evaluated_at": "2025-09-20T21:04:07.246556"
+  },
+  {
+    "resume_id": "4850e233-ae16-4ff6-bd3f-e7855b889886",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "7b00aa01-ca2d-4287-b315-b91e601ef6e6",
+    "evaluated_at": "2025-09-20T21:04:07.249810"
+  },
+  {
+    "resume_id": "b984f52f-bbdb-455f-a130-83ca19672444",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "841d0639-c9af-4ccc-9cb8-a3602cc5aaf4",
+    "evaluated_at": "2025-09-20T21:04:07.253397"
+  },
+  {
+    "resume_id": "fd003c9d-d949-4538-89c2-8aa6c53edf74",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 66.68,
+    "hard_match_score": 90.0,
+    "soft_match_score": 51.14,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "e8d0386d-4a48-43e7-b720-f3b3c58a8389",
+    "evaluated_at": "2025-09-20T21:04:07.256591"
+  },
+  {
+    "resume_id": "1181d9f7-fef1-4b86-84e6-047c4ea22b1c",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "318d030c-9da0-4e3b-8f29-dc0af5609c7f",
+    "evaluated_at": "2025-09-20T21:04:07.260125"
+  },
+  {
+    "resume_id": "ca2dc0c0-aecf-4c6b-b89a-550d9b7bacb3",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "6e7c0b12-637c-461e-b9b8-465e4297b884",
+    "evaluated_at": "2025-09-20T21:04:07.264586"
+  },
+  {
+    "resume_id": "d6121b25-66ef-4660-a7ed-bbb2a45c8e9d",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "d6f6ff04-e90d-4922-8fa1-646770da55ac",
+    "evaluated_at": "2025-09-20T21:04:07.269231"
+  },
+  {
+    "resume_id": "5c3d3892-028c-4b28-a26d-97e4ada8a0c9",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "5bb96b22-1b86-40d2-966d-3aa8e559720f",
+    "evaluated_at": "2025-09-20T21:04:07.273817"
+  },
+  {
+    "resume_id": "ef2da79d-1b34-4f5a-8283-3f1f45274950",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "04adf443-4974-4bfa-a0cb-f46636263aa6",
+    "evaluated_at": "2025-09-20T21:06:59.588450"
+  },
+  {
+    "resume_id": "2c1101e2-2df7-4372-b24b-a4b1daebacbb",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 77.38,
+    "hard_match_score": 100.0,
+    "soft_match_score": 62.3,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "dc4bfc54-0de0-4688-bc1a-b827aca0e209",
+    "evaluated_at": "2025-09-20T21:06:59.592864"
+  },
+  {
+    "resume_id": "4850e233-ae16-4ff6-bd3f-e7855b889886",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "3d48a23d-64cf-4d9b-8fdb-d9f97d99a668",
+    "evaluated_at": "2025-09-20T21:06:59.596737"
+  },
+  {
+    "resume_id": "b984f52f-bbdb-455f-a130-83ca19672444",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "bb760b9a-f4d1-45e5-9e5d-7231b0b06968",
+    "evaluated_at": "2025-09-20T21:06:59.600117"
+  },
+  {
+    "resume_id": "fd003c9d-d949-4538-89c2-8aa6c53edf74",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 66.68,
+    "hard_match_score": 90.0,
+    "soft_match_score": 51.14,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "8dd1dc89-1eda-4585-9823-1d31401153d2",
+    "evaluated_at": "2025-09-20T21:06:59.605049"
+  },
+  {
+    "resume_id": "1181d9f7-fef1-4b86-84e6-047c4ea22b1c",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "96d82e81-bbac-4cc9-a311-f10c01beda71",
+    "evaluated_at": "2025-09-20T21:06:59.611759"
+  },
+  {
+    "resume_id": "ca2dc0c0-aecf-4c6b-b89a-550d9b7bacb3",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "31c8b561-ee57-4cbf-b268-11a458380ec0",
+    "evaluated_at": "2025-09-20T21:06:59.615978"
+  },
+  {
+    "resume_id": "d6121b25-66ef-4660-a7ed-bbb2a45c8e9d",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "9839c4a7-3b5c-46fa-a84f-df331efd4ec6",
+    "evaluated_at": "2025-09-20T21:06:59.620029"
+  },
+  {
+    "resume_id": "5c3d3892-028c-4b28-a26d-97e4ada8a0c9",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "034e786d-1d28-429a-a006-b4dd90ac23dc",
+    "evaluated_at": "2025-09-20T21:06:59.625259"
+  },
+  {
+    "resume_id": "5c3d3892-028c-4b28-a26d-97e4ada8a0c9",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "1486461b-31e0-4804-8e86-05ddf2889d19",
+    "evaluated_at": "2025-09-21T02:33:48.895788"
+  },
+  {
+    "resume_id": "14a491a1-61ec-4cc9-95fb-9326618ba25e",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "45157685-0a9d-4b2e-adc6-a2499426ad0a",
+    "evaluated_at": "2025-09-21T02:34:33.696693"
+  },
+  {
+    "resume_id": "ef2da79d-1b34-4f5a-8283-3f1f45274950",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "45700233-1df9-428c-9a25-0846b3ba9162",
+    "evaluated_at": "2025-09-21T02:34:33.703801"
+  },
+  {
+    "resume_id": "2c1101e2-2df7-4372-b24b-a4b1daebacbb",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 77.38,
+    "hard_match_score": 100.0,
+    "soft_match_score": 62.3,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "0f879fd3-3c39-4eba-8d5c-5f69c510321b",
+    "evaluated_at": "2025-09-21T02:34:33.708784"
+  },
+  {
+    "resume_id": "df8e2db9-efba-4c53-9073-4cbb4c7c8b47",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.43,
+    "hard_match_score": 94.0,
+    "soft_match_score": 63.05,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 56,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "c30e2a2a-807e-46d0-b9ec-68a105ab9f53",
+    "evaluated_at": "2025-09-21T02:34:33.713228"
+  },
+  {
+    "resume_id": "9beae05e-e411-445e-9705-9d087f432d86",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "0ab903c4-4fea-4542-858a-8ff5306c1006",
+    "evaluated_at": "2025-09-21T02:34:33.718711"
+  },
+  {
+    "resume_id": "4850e233-ae16-4ff6-bd3f-e7855b889886",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "3618c911-14aa-4a1c-aba6-b9f7a133fb43",
+    "evaluated_at": "2025-09-21T02:34:33.723479"
+  },
+  {
+    "resume_id": "b984f52f-bbdb-455f-a130-83ca19672444",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "11830766-9413-41f0-a495-a1f26c8a703b",
+    "evaluated_at": "2025-09-21T02:34:33.730093"
+  },
+  {
+    "resume_id": "fd003c9d-d949-4538-89c2-8aa6c53edf74",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 66.68,
+    "hard_match_score": 90.0,
+    "soft_match_score": 51.14,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "d327ea22-f6fe-4f24-9de3-3b1bc2e9bc86",
+    "evaluated_at": "2025-09-21T02:34:33.736514"
+  },
+  {
+    "resume_id": "1181d9f7-fef1-4b86-84e6-047c4ea22b1c",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "d4a073e4-e7c9-4d95-8319-6497ee54d64c",
+    "evaluated_at": "2025-09-21T02:34:33.742291"
+  },
+  {
+    "resume_id": "ca2dc0c0-aecf-4c6b-b89a-550d9b7bacb3",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "8c4d93dc-5459-4aba-a2aa-e89b49fda149",
+    "evaluated_at": "2025-09-21T02:34:33.748080"
+  },
+  {
+    "resume_id": "d6121b25-66ef-4660-a7ed-bbb2a45c8e9d",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "2587af71-5790-44d7-b0bc-a6525d1486f8",
+    "evaluated_at": "2025-09-21T02:34:33.753341"
+  },
+  {
+    "resume_id": "5c3d3892-028c-4b28-a26d-97e4ada8a0c9",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "c9763e89-b549-411c-96eb-ad698364589d",
+    "evaluated_at": "2025-09-21T02:34:33.759321"
+  },
+  {
+    "resume_id": "5c3d3892-028c-4b28-a26d-97e4ada8a0c9",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "a46e8abe-4c76-42a1-b09a-e6bad22cd7c3",
+    "evaluated_at": "2025-09-21T02:36:48.466558"
+  },
+  {
+    "resume_id": "5c3d3892-028c-4b28-a26d-97e4ada8a0c9",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "08c0a8d3-d8a9-431d-b415-2b059e0481f7",
+    "evaluated_at": "2025-09-21T05:46:39.454780"
+  },
+  {
+    "resume_id": "14a491a1-61ec-4cc9-95fb-9326618ba25e",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "e06d6bd3-b25d-4dbe-856f-93ae85fa004b",
+    "evaluated_at": "2025-09-21T05:47:12.234247"
+  },
+  {
+    "resume_id": "ef2da79d-1b34-4f5a-8283-3f1f45274950",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "cb9f41aa-415c-4f31-97b7-ce8b47038c75",
+    "evaluated_at": "2025-09-21T05:47:12.240556"
+  },
+  {
+    "resume_id": "2c1101e2-2df7-4372-b24b-a4b1daebacbb",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 77.38,
+    "hard_match_score": 100.0,
+    "soft_match_score": 62.3,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "e9854c76-0fab-4b83-8070-19ad22701cbb",
+    "evaluated_at": "2025-09-21T05:47:12.247916"
+  },
+  {
+    "resume_id": "df8e2db9-efba-4c53-9073-4cbb4c7c8b47",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.43,
+    "hard_match_score": 94.0,
+    "soft_match_score": 63.05,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 56,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "c0740c25-0249-4ae1-87f9-984fed0c7eb6",
+    "evaluated_at": "2025-09-21T05:47:12.255588"
+  },
+  {
+    "resume_id": "9beae05e-e411-445e-9705-9d087f432d86",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "7ccb17fc-5356-4373-84c9-205f52406a34",
+    "evaluated_at": "2025-09-21T05:47:12.262766"
+  },
+  {
+    "resume_id": "4850e233-ae16-4ff6-bd3f-e7855b889886",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "a031232f-6e28-4aa9-8111-3bed0f4b75b9",
+    "evaluated_at": "2025-09-21T05:47:12.269325"
+  },
+  {
+    "resume_id": "9e6dc265-cdf6-477c-a194-f6bac4c4847a",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "d3d54666-0879-4442-8103-4d83dabb7260",
+    "evaluated_at": "2025-09-21T05:47:12.277708"
+  },
+  {
+    "resume_id": "b5d619c7-8928-4a15-a35e-1accc3672d68",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "63f76c0d-de60-4531-bbd2-f0fc41db4704",
+    "evaluated_at": "2025-09-21T05:47:12.284022"
+  },
+  {
+    "resume_id": "b984f52f-bbdb-455f-a130-83ca19672444",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "4cf260ea-c70c-46e3-88ee-16939ec8c6ee",
+    "evaluated_at": "2025-09-21T05:47:12.292912"
+  },
+  {
+    "resume_id": "fd003c9d-d949-4538-89c2-8aa6c53edf74",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 66.68,
+    "hard_match_score": 90.0,
+    "soft_match_score": 51.14,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "5163e659-a6df-48ba-bc1d-cfca3f22a50d",
+    "evaluated_at": "2025-09-21T05:47:12.299904"
+  },
+  {
+    "resume_id": "1181d9f7-fef1-4b86-84e6-047c4ea22b1c",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "c428a0f1-81c8-4eb0-8d52-e48eccfec868",
+    "evaluated_at": "2025-09-21T05:47:12.307682"
+  },
+  {
+    "resume_id": "ca2dc0c0-aecf-4c6b-b89a-550d9b7bacb3",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "3e49f310-db4b-4df4-8f58-ee2dc27116be",
+    "evaluated_at": "2025-09-21T05:47:12.317357"
+  },
+  {
+    "resume_id": "d6121b25-66ef-4660-a7ed-bbb2a45c8e9d",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "3ffd5374-d19e-48ae-ad99-2957014b6cf4",
+    "evaluated_at": "2025-09-21T05:47:12.325380"
+  },
+  {
+    "resume_id": "5c3d3892-028c-4b28-a26d-97e4ada8a0c9",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "mcq_score": 0.0,
+    "mcq_boost": 0.0,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "7700ca95-9476-409f-a37c-03548c8cb2e6",
+    "evaluated_at": "2025-09-21T05:47:12.333912"
+  },
+  {
+    "resume_id": "2f62a65c-6ffb-49a1-beb2-22e78e750f67",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "c91e37d3-f814-4398-bec5-cc0ef4982f60",
+    "evaluated_at": "2025-09-21T06:39:29.434410"
+  },
+  {
+    "resume_id": "14a491a1-61ec-4cc9-95fb-9326618ba25e",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "0151ad0f-e95e-4809-a111-92d3295675c0",
+    "evaluated_at": "2025-09-21T06:39:29.445366"
+  },
+  {
+    "resume_id": "ef2da79d-1b34-4f5a-8283-3f1f45274950",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "af0681d8-8163-4770-9f06-bc08bd47d620",
+    "evaluated_at": "2025-09-21T06:39:29.455727"
+  },
+  {
+    "resume_id": "c82a0ff3-c583-468c-918c-56e8d08b4824",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 77.38,
+    "hard_match_score": 100.0,
+    "soft_match_score": 62.3,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "af9da795-d744-4adc-957c-b9665b2eb284",
+    "evaluated_at": "2025-09-21T06:39:29.468974"
+  },
+  {
+    "resume_id": "2c1101e2-2df7-4372-b24b-a4b1daebacbb",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 77.38,
+    "hard_match_score": 100.0,
+    "soft_match_score": 62.3,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "efa2e5a2-bd2b-4896-91ee-7617d4abc162",
+    "evaluated_at": "2025-09-21T06:39:29.482768"
+  },
+  {
+    "resume_id": "df8e2db9-efba-4c53-9073-4cbb4c7c8b47",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.43,
+    "hard_match_score": 94.0,
+    "soft_match_score": 63.05,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 56,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "5d4c338a-4fb1-4e99-9b79-a1b62dc946d3",
+    "evaluated_at": "2025-09-21T06:39:29.492979"
+  },
+  {
+    "resume_id": "deac0fbf-0401-43b3-b1b3-8673ba23d33c",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "137316fa-a855-4c2a-a007-6b3e9143146f",
+    "evaluated_at": "2025-09-21T06:39:29.502618"
+  },
+  {
+    "resume_id": "9beae05e-e411-445e-9705-9d087f432d86",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "b10f0697-7db4-4725-90c3-c5e511aea035",
+    "evaluated_at": "2025-09-21T06:39:29.512009"
+  },
+  {
+    "resume_id": "4850e233-ae16-4ff6-bd3f-e7855b889886",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "2cfa7a44-0bcb-4343-a698-fe2389ce03d2",
+    "evaluated_at": "2025-09-21T06:39:29.524131"
+  },
+  {
+    "resume_id": "9e6dc265-cdf6-477c-a194-f6bac4c4847a",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "66b67c23-8173-4d7e-992f-8654f24e6b64",
+    "evaluated_at": "2025-09-21T06:39:29.532702"
+  },
+  {
+    "resume_id": "b5d619c7-8928-4a15-a35e-1accc3672d68",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "03223d78-0933-4954-a1a5-8bcba2e5273f",
+    "evaluated_at": "2025-09-21T06:39:29.542716"
+  },
+  {
+    "resume_id": "b984f52f-bbdb-455f-a130-83ca19672444",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "5da85692-2a62-452d-92ea-35f2ca94a8fd",
+    "evaluated_at": "2025-09-21T06:39:29.552192"
+  },
+  {
+    "resume_id": "fd003c9d-d949-4538-89c2-8aa6c53edf74",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 66.68,
+    "hard_match_score": 90.0,
+    "soft_match_score": 51.14,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "ab565848-e31c-4261-b577-75a79908bfab",
+    "evaluated_at": "2025-09-21T06:39:29.561769"
+  },
+  {
+    "resume_id": "e014f697-a6c2-45ae-a9b6-ce0a57eec8d1",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 61.06,
+    "hard_match_score": 70.0,
+    "soft_match_score": 55.1,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 0,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "dc2a369d-0a20-400e-a010-b0c7805770ba",
+    "evaluated_at": "2025-09-21T06:39:29.572117"
+  },
+  {
+    "resume_id": "313e6b6f-5d74-4260-a81f-486be7bf5f5f",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 61.06,
+    "hard_match_score": 70.0,
+    "soft_match_score": 55.1,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 0,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "7f9edb16-4ef7-4c0d-b2cd-5dfa546dc6be",
+    "evaluated_at": "2025-09-21T06:39:29.581361"
+  },
+  {
+    "resume_id": "1181d9f7-fef1-4b86-84e6-047c4ea22b1c",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "c02bf347-2000-4ca3-a9f5-da5bffb092ce",
+    "evaluated_at": "2025-09-21T06:39:29.591746"
+  },
+  {
+    "resume_id": "ca2dc0c0-aecf-4c6b-b89a-550d9b7bacb3",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "242d71ef-af1a-478b-a4e3-2f2c3e1cd855",
+    "evaluated_at": "2025-09-21T06:39:29.603794"
+  },
+  {
+    "resume_id": "d6121b25-66ef-4660-a7ed-bbb2a45c8e9d",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "86b82282-2f5d-4118-997a-ce1d8cd3475f",
+    "evaluated_at": "2025-09-21T06:39:29.615284"
+  },
+  {
+    "resume_id": "5c3d3892-028c-4b28-a26d-97e4ada8a0c9",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "587bd2e4-c544-45b8-86ac-3d654524e958",
+    "evaluated_at": "2025-09-21T06:39:29.629101"
+  },
+  {
+    "resume_id": "2f62a65c-6ffb-49a1-beb2-22e78e750f67",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "4de3f2ff-3a06-44d5-8eb6-3f2adb19cab0",
+    "evaluated_at": "2025-09-21T07:05:05.594266"
+  },
+  {
+    "resume_id": "14a491a1-61ec-4cc9-95fb-9326618ba25e",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "d1dc9d84-49e8-494f-a4a8-8f2547251dcc",
+    "evaluated_at": "2025-09-21T07:05:05.602264"
+  },
+  {
+    "resume_id": "ef2da79d-1b34-4f5a-8283-3f1f45274950",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "49c85504-3439-441d-bcbb-9d7a16281b28",
+    "evaluated_at": "2025-09-21T07:05:05.611782"
+  },
+  {
+    "resume_id": "c82a0ff3-c583-468c-918c-56e8d08b4824",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 77.38,
+    "hard_match_score": 100.0,
+    "soft_match_score": 62.3,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "11e77474-a693-4d9b-9eb9-709a3d634731",
+    "evaluated_at": "2025-09-21T07:05:05.619026"
+  },
+  {
+    "resume_id": "2c1101e2-2df7-4372-b24b-a4b1daebacbb",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 77.38,
+    "hard_match_score": 100.0,
+    "soft_match_score": 62.3,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "9163b546-a34d-4ef5-9cb8-14aa66a82979",
+    "evaluated_at": "2025-09-21T07:05:05.627170"
+  },
+  {
+    "resume_id": "df8e2db9-efba-4c53-9073-4cbb4c7c8b47",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.43,
+    "hard_match_score": 94.0,
+    "soft_match_score": 63.05,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 56,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "024f0066-cc8f-4354-86d2-d821c473c1e9",
+    "evaluated_at": "2025-09-21T07:05:05.637235"
+  },
+  {
+    "resume_id": "deac0fbf-0401-43b3-b1b3-8673ba23d33c",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "9681870c-5919-4ccf-a30f-9f745bedb127",
+    "evaluated_at": "2025-09-21T07:05:05.647742"
+  },
+  {
+    "resume_id": "9beae05e-e411-445e-9705-9d087f432d86",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "89a5aa5d-63b6-4c66-942d-81b31b5ac6ab",
+    "evaluated_at": "2025-09-21T07:05:05.658895"
+  },
+  {
+    "resume_id": "4850e233-ae16-4ff6-bd3f-e7855b889886",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "701df085-0e8a-441c-b093-bd6e1dd83c25",
+    "evaluated_at": "2025-09-21T07:05:05.670856"
+  },
+  {
+    "resume_id": "9e6dc265-cdf6-477c-a194-f6bac4c4847a",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "8b105504-00bd-4ebd-95a7-9c2232ff30c9",
+    "evaluated_at": "2025-09-21T07:05:05.684152"
+  },
+  {
+    "resume_id": "b5d619c7-8928-4a15-a35e-1accc3672d68",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "da0ed2cd-1c40-41f4-9a4b-d4410286a11f",
+    "evaluated_at": "2025-09-21T07:05:05.697472"
+  },
+  {
+    "resume_id": "b984f52f-bbdb-455f-a130-83ca19672444",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "5f398537-0cdf-467e-b2c2-69bf4570a2fa",
+    "evaluated_at": "2025-09-21T07:05:05.708762"
+  },
+  {
+    "resume_id": "fd003c9d-d949-4538-89c2-8aa6c53edf74",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 66.68,
+    "hard_match_score": 90.0,
+    "soft_match_score": 51.14,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "aa8af0e0-8394-4372-91d7-839f4eb23e65",
+    "evaluated_at": "2025-09-21T07:05:05.720331"
+  },
+  {
+    "resume_id": "e014f697-a6c2-45ae-a9b6-ce0a57eec8d1",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 61.06,
+    "hard_match_score": 70.0,
+    "soft_match_score": 55.1,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 0,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "fa708193-c52f-4a03-b049-1c59f451dffe",
+    "evaluated_at": "2025-09-21T07:05:05.731979"
+  },
+  {
+    "resume_id": "313e6b6f-5d74-4260-a81f-486be7bf5f5f",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 61.06,
+    "hard_match_score": 70.0,
+    "soft_match_score": 55.1,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 0,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "980000ff-c6aa-4948-bfc6-6aaa2f386e7d",
+    "evaluated_at": "2025-09-21T07:05:05.743398"
+  },
+  {
+    "resume_id": "1181d9f7-fef1-4b86-84e6-047c4ea22b1c",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "c6385d82-5520-4752-8c5f-4d3aed32b8be",
+    "evaluated_at": "2025-09-21T07:05:05.754907"
+  },
+  {
+    "resume_id": "ca2dc0c0-aecf-4c6b-b89a-550d9b7bacb3",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "424936e3-ac02-4a45-8554-d2ef2fa57929",
+    "evaluated_at": "2025-09-21T07:05:05.767333"
+  },
+  {
+    "resume_id": "d6121b25-66ef-4660-a7ed-bbb2a45c8e9d",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "c8dd7913-18b4-4b5a-b430-3f78d1bbc746",
+    "evaluated_at": "2025-09-21T07:05:05.778901"
+  },
+  {
+    "resume_id": "5c3d3892-028c-4b28-a26d-97e4ada8a0c9",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "bf2d4ed5-d912-438d-aa0f-b516c53235ea",
+    "evaluated_at": "2025-09-21T07:05:05.789515"
+  },
+  {
+    "resume_id": "fd003c9d-d949-4538-89c2-8aa6c53edf74",
+    "job_id": "sandevex_developer_20250921063641",
+    "relevance_score": 52.06,
+    "hard_match_score": 76.67,
+    "soft_match_score": 35.65,
+    "analysis": {
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [
+        "machine learning",
+        "nlp"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: python"
+      ],
+      "improvements": [
+        "Missing key skills: machine learning, nlp"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "414ce11b-4b18-4bf1-8947-a9a671a6109d",
+    "evaluated_at": "2025-09-21T07:06:31.879111"
+  },
+  {
+    "resume_id": "fd003c9d-d949-4538-89c2-8aa6c53edf74",
+    "job_id": "sandevex_developer_20250921063641",
+    "relevance_score": 52.06,
+    "hard_match_score": 76.67,
+    "soft_match_score": 35.65,
+    "analysis": {
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [
+        "machine learning",
+        "nlp"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: python"
+      ],
+      "improvements": [
+        "Missing key skills: machine learning, nlp"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "1c0a755e-111c-450d-8896-64e6859dce61",
+    "evaluated_at": "2025-09-21T07:06:36.777269"
+  },
+  {
+    "resume_id": "40f748dc-5950-4571-b604-f74969b31223",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "3b4e7c7f-315d-4e9d-98cc-cd7a8f1361c9",
+    "evaluated_at": "2025-09-21T07:20:13.383288"
+  },
+  {
+    "resume_id": "2f62a65c-6ffb-49a1-beb2-22e78e750f67",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "423fdb75-6406-47a4-9b5b-ba39b32116f8",
+    "evaluated_at": "2025-09-21T07:20:13.399792"
+  },
+  {
+    "resume_id": "14a491a1-61ec-4cc9-95fb-9326618ba25e",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "c1f13abb-546e-4ae0-a1d6-48d5e4f43035",
+    "evaluated_at": "2025-09-21T07:20:13.413699"
+  },
+  {
+    "resume_id": "ef2da79d-1b34-4f5a-8283-3f1f45274950",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 84.97,
+    "hard_match_score": 100.0,
+    "soft_match_score": 74.95,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "949e6723-eca3-41c9-b60c-a0587b815a3b",
+    "evaluated_at": "2025-09-21T07:20:13.427235"
+  },
+  {
+    "resume_id": "3043dec2-4827-4dd9-b677-bb63a8face2e",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 77.38,
+    "hard_match_score": 100.0,
+    "soft_match_score": 62.3,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "a1f0a665-9e51-4e0e-bf51-155006aa9fc7",
+    "evaluated_at": "2025-09-21T07:20:13.439600"
+  },
+  {
+    "resume_id": "c82a0ff3-c583-468c-918c-56e8d08b4824",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 77.38,
+    "hard_match_score": 100.0,
+    "soft_match_score": 62.3,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "c03cb11a-85f0-4784-bdb6-6561d02fd398",
+    "evaluated_at": "2025-09-21T07:20:13.456399"
+  },
+  {
+    "resume_id": "2c1101e2-2df7-4372-b24b-a4b1daebacbb",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 77.38,
+    "hard_match_score": 100.0,
+    "soft_match_score": 62.3,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "42bbacbc-26fb-4c85-ae52-f9ac7eb77a87",
+    "evaluated_at": "2025-09-21T07:20:13.469488"
+  },
+  {
+    "resume_id": "956b1b6d-d373-41db-ad5a-2f0a896a7d00",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 76.81,
+    "hard_match_score": 90.0,
+    "soft_match_score": 68.02,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "7076fa07-20ef-46a0-a376-af037aa4f16e",
+    "evaluated_at": "2025-09-21T07:20:13.482262"
+  },
+  {
+    "resume_id": "e494d296-58ba-44cd-8748-e0d28e8a4366",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.43,
+    "hard_match_score": 94.0,
+    "soft_match_score": 63.05,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 56,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "4180ec65-3b9b-448b-9768-7902ff59a08e",
+    "evaluated_at": "2025-09-21T07:20:13.496149"
+  },
+  {
+    "resume_id": "df8e2db9-efba-4c53-9073-4cbb4c7c8b47",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.43,
+    "hard_match_score": 94.0,
+    "soft_match_score": 63.05,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 56,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "1af1b0b3-e7a0-4b6a-8198-5f14d8204651",
+    "evaluated_at": "2025-09-21T07:20:13.508813"
+  },
+  {
+    "resume_id": "97cb4df0-00ec-4161-9a52-1b4b865d950f",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "a4a8ef73-e75e-449c-9bee-a42716ef2ac3",
+    "evaluated_at": "2025-09-21T07:20:13.520755"
+  },
+  {
+    "resume_id": "deac0fbf-0401-43b3-b1b3-8673ba23d33c",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "44291138-3408-4d25-8d06-8d558f3fdb68",
+    "evaluated_at": "2025-09-21T07:20:13.533365"
+  },
+  {
+    "resume_id": "9beae05e-e411-445e-9705-9d087f432d86",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "7c4318ba-65b0-499d-ad4d-40b60c609fdf",
+    "evaluated_at": "2025-09-21T07:20:13.545874"
+  },
+  {
+    "resume_id": "4850e233-ae16-4ff6-bd3f-e7855b889886",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 75.05,
+    "hard_match_score": 95.0,
+    "soft_match_score": 61.74,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "HIGH",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "d40d7e5a-456c-4e36-8a2c-187c65267af3",
+    "evaluated_at": "2025-09-21T07:20:13.559214"
+  },
+  {
+    "resume_id": "f7e940c2-63e2-4133-9fd5-6a4ae09afe49",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.69,
+    "hard_match_score": 90.0,
+    "soft_match_score": 56.15,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "2548d240-0e19-464e-a9ec-e04b3270c5f3",
+    "evaluated_at": "2025-09-21T07:20:13.572742"
+  },
+  {
+    "resume_id": "2056d077-3385-42b4-9feb-acaee711a7e7",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "de1b7751-70e6-4b48-854e-790d1aa535ba",
+    "evaluated_at": "2025-09-21T07:20:13.588169"
+  },
+  {
+    "resume_id": "9e6dc265-cdf6-477c-a194-f6bac4c4847a",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "17627f0a-766d-4f92-95b3-ca381d4933bd",
+    "evaluated_at": "2025-09-21T07:20:13.602693"
+  },
+  {
+    "resume_id": "b5d619c7-8928-4a15-a35e-1accc3672d68",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "3686800f-af65-4e25-9d22-de6709fad688",
+    "evaluated_at": "2025-09-21T07:20:13.617049"
+  },
+  {
+    "resume_id": "b984f52f-bbdb-455f-a130-83ca19672444",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 69.16,
+    "hard_match_score": 95.0,
+    "soft_match_score": 51.94,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "7fe88947-6301-4d82-961b-da9495b7f774",
+    "evaluated_at": "2025-09-21T07:20:13.631545"
+  },
+  {
+    "resume_id": "0b7c370e-7b81-400c-aaff-2f0821b52a7f",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 68.04,
+    "hard_match_score": 95.0,
+    "soft_match_score": 50.07,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "ee1c7339-e837-4670-96af-9502f7816ee3",
+    "evaluated_at": "2025-09-21T07:20:13.646388"
+  },
+  {
+    "resume_id": "0669959c-553a-4e8d-9dd8-af1206d45c0f",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 66.68,
+    "hard_match_score": 90.0,
+    "soft_match_score": 51.14,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "e2638013-b610-431c-8795-bb5d06af59e5",
+    "evaluated_at": "2025-09-21T07:20:13.662255"
+  },
+  {
+    "resume_id": "fd003c9d-d949-4538-89c2-8aa6c53edf74",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 66.68,
+    "hard_match_score": 90.0,
+    "soft_match_score": 51.14,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "831c6353-60f9-421c-842c-d6e4828500c5",
+    "evaluated_at": "2025-09-21T07:20:13.677739"
+  },
+  {
+    "resume_id": "028de5ae-6d8e-4f82-aed6-b555a54ece97",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 61.06,
+    "hard_match_score": 70.0,
+    "soft_match_score": 55.1,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 0,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "965682e0-f91d-408f-9598-d87d517752df",
+    "evaluated_at": "2025-09-21T07:20:13.693579"
+  },
+  {
+    "resume_id": "e014f697-a6c2-45ae-a9b6-ce0a57eec8d1",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 61.06,
+    "hard_match_score": 70.0,
+    "soft_match_score": 55.1,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 0,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "50d5a62d-d46e-41b7-a6fa-073a28228deb",
+    "evaluated_at": "2025-09-21T07:20:13.709375"
+  },
+  {
+    "resume_id": "313e6b6f-5d74-4260-a81f-486be7bf5f5f",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 61.06,
+    "hard_match_score": 70.0,
+    "soft_match_score": 55.1,
+    "analysis": {
+      "matched_skills": [
+        "sql",
+        "sql"
+      ],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 0,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [
+        "Matched skills: sql, sql"
+      ],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "a19f98ef-f6f1-4d03-9dcc-3f23b1ae80d4",
+    "evaluated_at": "2025-09-21T07:20:13.728914"
+  },
+  {
+    "resume_id": "1181d9f7-fef1-4b86-84e6-047c4ea22b1c",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "c2200011-be3a-495c-bd39-002a4a77dd4a",
+    "evaluated_at": "2025-09-21T07:20:13.745129"
+  },
+  {
+    "resume_id": "ca2dc0c0-aecf-4c6b-b89a-550d9b7bacb3",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "33efd78e-5523-4e2f-a584-158393b350db",
+    "evaluated_at": "2025-09-21T07:20:13.760525"
+  },
+  {
+    "resume_id": "d6121b25-66ef-4660-a7ed-bbb2a45c8e9d",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "413a4fcb-9fd6-432c-ba4f-8c34bf939df7",
+    "evaluated_at": "2025-09-21T07:20:13.775796"
+  },
+  {
+    "resume_id": "5c3d3892-028c-4b28-a26d-97e4ada8a0c9",
+    "job_id": "sandhut_Data Science Interns_20250920182510",
+    "relevance_score": 52.04,
+    "hard_match_score": 40.0,
+    "soft_match_score": 60.06,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [
+        "sql"
+      ],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "6-16 years"
+      }
+    },
+    "verdict": "MEDIUM",
+    "feedback": {
+      "strengths": [],
+      "improvements": [
+        "Missing key skills: sql"
+      ],
+      "suggestions": [
+        "Consider projects or a micro-course to demonstrate these skills."
+      ]
+    },
+    "_id": "389b79c3-f8af-4a34-8206-b6ba16913714",
+    "evaluated_at": "2025-09-21T07:20:13.791455"
+  },
+  {
+    "resume_id": "3043dec2-4827-4dd9-b677-bb63a8face2e",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 48.42,
+    "hard_match_score": 100.0,
+    "soft_match_score": 14.03,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "76a89a96-aad8-4535-9f0d-b8ae99d2af32",
+    "evaluated_at": "2025-09-21T07:20:30.080670"
+  },
+  {
+    "resume_id": "c82a0ff3-c583-468c-918c-56e8d08b4824",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 48.42,
+    "hard_match_score": 100.0,
+    "soft_match_score": 14.03,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "a0d34503-62ac-42a8-868e-45db22d63d38",
+    "evaluated_at": "2025-09-21T07:20:30.098312"
+  },
+  {
+    "resume_id": "2c1101e2-2df7-4372-b24b-a4b1daebacbb",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 48.42,
+    "hard_match_score": 100.0,
+    "soft_match_score": 14.03,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "8f8958f9-0c20-40bd-bbb6-499a85f9316a",
+    "evaluated_at": "2025-09-21T07:20:30.114735"
+  },
+  {
+    "resume_id": "1181d9f7-fef1-4b86-84e6-047c4ea22b1c",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 48.36,
+    "hard_match_score": 100.0,
+    "soft_match_score": 13.93,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "e22ace44-ecdf-4d95-881f-b42a8dcf9afc",
+    "evaluated_at": "2025-09-21T07:20:30.132322"
+  },
+  {
+    "resume_id": "ca2dc0c0-aecf-4c6b-b89a-550d9b7bacb3",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 48.36,
+    "hard_match_score": 100.0,
+    "soft_match_score": 13.93,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "6a5fac5e-3b40-436f-819a-1b70b11a4de7",
+    "evaluated_at": "2025-09-21T07:20:30.148773"
+  },
+  {
+    "resume_id": "d6121b25-66ef-4660-a7ed-bbb2a45c8e9d",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 48.36,
+    "hard_match_score": 100.0,
+    "soft_match_score": 13.93,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "ea1b47f4-4bfd-4c2e-a7f7-3f580c995c3d",
+    "evaluated_at": "2025-09-21T07:20:30.164581"
+  },
+  {
+    "resume_id": "5c3d3892-028c-4b28-a26d-97e4ada8a0c9",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 48.36,
+    "hard_match_score": 100.0,
+    "soft_match_score": 13.93,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "ff74cb96-1e12-47f9-800d-5d0f1341eb3d",
+    "evaluated_at": "2025-09-21T07:20:30.180279"
+  },
+  {
+    "resume_id": "40f748dc-5950-4571-b604-f74969b31223",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 46.36,
+    "hard_match_score": 100.0,
+    "soft_match_score": 10.6,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "ba0439bf-a0bb-4fcb-8d4f-a7cbf47adce6",
+    "evaluated_at": "2025-09-21T07:20:30.196666"
+  },
+  {
+    "resume_id": "2f62a65c-6ffb-49a1-beb2-22e78e750f67",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 46.36,
+    "hard_match_score": 100.0,
+    "soft_match_score": 10.6,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "56b87260-07f0-4fc6-8834-b2179ca48a58",
+    "evaluated_at": "2025-09-21T07:20:30.213169"
+  },
+  {
+    "resume_id": "14a491a1-61ec-4cc9-95fb-9326618ba25e",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 46.36,
+    "hard_match_score": 100.0,
+    "soft_match_score": 10.6,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "3805a683-c181-406f-b3a5-eb357936fe38",
+    "evaluated_at": "2025-09-21T07:20:30.230086"
+  },
+  {
+    "resume_id": "ef2da79d-1b34-4f5a-8283-3f1f45274950",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 46.36,
+    "hard_match_score": 100.0,
+    "soft_match_score": 10.6,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 7,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "10f77c09-631d-4f0d-aafd-2b8847e07865",
+    "evaluated_at": "2025-09-21T07:20:30.247029"
+  },
+  {
+    "resume_id": "028de5ae-6d8e-4f82-aed6-b555a54ece97",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 44.86,
+    "hard_match_score": 100.0,
+    "soft_match_score": 8.1,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 0,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "aa79871b-88ab-44d1-bb63-2df5a8ebe07d",
+    "evaluated_at": "2025-09-21T07:20:30.266354"
+  },
+  {
+    "resume_id": "e014f697-a6c2-45ae-a9b6-ce0a57eec8d1",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 44.86,
+    "hard_match_score": 100.0,
+    "soft_match_score": 8.1,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 0,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "d04b4a97-f3a3-488c-acf6-38090cd8bdc5",
+    "evaluated_at": "2025-09-21T07:20:30.278892"
+  },
+  {
+    "resume_id": "313e6b6f-5d74-4260-a81f-486be7bf5f5f",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 44.86,
+    "hard_match_score": 100.0,
+    "soft_match_score": 8.1,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 0,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "010efb98-4bc1-45ae-9c2c-6b1ca485420f",
+    "evaluated_at": "2025-09-21T07:20:30.300436"
+  },
+  {
+    "resume_id": "0b7c370e-7b81-400c-aaff-2f0821b52a7f",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 44.71,
+    "hard_match_score": 100.0,
+    "soft_match_score": 7.84,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "d05e4edc-ae91-4645-9fe9-d243354a738a",
+    "evaluated_at": "2025-09-21T07:20:30.318517"
+  },
+  {
+    "resume_id": "e494d296-58ba-44cd-8748-e0d28e8a4366",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 43.14,
+    "hard_match_score": 94.0,
+    "soft_match_score": 9.23,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 56,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "c1fa8f6c-d621-42f4-9630-aaef3fb57849",
+    "evaluated_at": "2025-09-21T07:20:30.334457"
+  },
+  {
+    "resume_id": "df8e2db9-efba-4c53-9073-4cbb4c7c8b47",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 43.14,
+    "hard_match_score": 94.0,
+    "soft_match_score": 9.23,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 56,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "b27e21c0-c2d6-42da-89ac-ff1823ab1198",
+    "evaluated_at": "2025-09-21T07:20:30.350583"
+  },
+  {
+    "resume_id": "f7e940c2-63e2-4133-9fd5-6a4ae09afe49",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 42.71,
+    "hard_match_score": 100.0,
+    "soft_match_score": 4.52,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "6a47d70e-66b2-490b-9dfe-3a09ef0a7763",
+    "evaluated_at": "2025-09-21T07:20:30.365886"
+  },
+  {
+    "resume_id": "0669959c-553a-4e8d-9dd8-af1206d45c0f",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 42.56,
+    "hard_match_score": 100.0,
+    "soft_match_score": 4.27,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "96250605-95c0-4e59-905d-b0e48fdfcdcc",
+    "evaluated_at": "2025-09-21T07:20:30.382050"
+  },
+  {
+    "resume_id": "fd003c9d-d949-4538-89c2-8aa6c53edf74",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 42.56,
+    "hard_match_score": 100.0,
+    "soft_match_score": 4.27,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "ba15d2a2-1fc6-4506-86c1-e801bbc93113",
+    "evaluated_at": "2025-09-21T07:20:30.398839"
+  },
+  {
+    "resume_id": "97cb4df0-00ec-4161-9a52-1b4b865d950f",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 41.78,
+    "hard_match_score": 100.0,
+    "soft_match_score": 2.97,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "e882303d-8d6c-406c-bc3b-263060250285",
+    "evaluated_at": "2025-09-21T07:20:30.415579"
+  },
+  {
+    "resume_id": "deac0fbf-0401-43b3-b1b3-8673ba23d33c",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 41.78,
+    "hard_match_score": 100.0,
+    "soft_match_score": 2.97,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "fcb05f90-9676-4934-a821-65c909d0bde1",
+    "evaluated_at": "2025-09-21T07:20:30.432289"
+  },
+  {
+    "resume_id": "9beae05e-e411-445e-9705-9d087f432d86",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 41.78,
+    "hard_match_score": 100.0,
+    "soft_match_score": 2.97,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "23c98fef-03c8-426b-bdc1-67333d7856bf",
+    "evaluated_at": "2025-09-21T07:20:30.449796"
+  },
+  {
+    "resume_id": "4850e233-ae16-4ff6-bd3f-e7855b889886",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 41.78,
+    "hard_match_score": 100.0,
+    "soft_match_score": 2.97,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "36007c03-580c-4b1a-8a62-3d41160b3cf1",
+    "evaluated_at": "2025-09-21T07:20:30.465977"
+  },
+  {
+    "resume_id": "956b1b6d-d373-41db-ad5a-2f0a896a7d00",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 41.73,
+    "hard_match_score": 100.0,
+    "soft_match_score": 2.89,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 4,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "677b040b-28bf-44c1-9bc1-f1c7c006fe4a",
+    "evaluated_at": "2025-09-21T07:20:30.482916"
+  },
+  {
+    "resume_id": "2056d077-3385-42b4-9feb-acaee711a7e7",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 40.24,
+    "hard_match_score": 100.0,
+    "soft_match_score": 0.41,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "b52e0915-a45e-4b31-8c7a-104038e3ed9f",
+    "evaluated_at": "2025-09-21T07:20:30.500191"
+  },
+  {
+    "resume_id": "9e6dc265-cdf6-477c-a194-f6bac4c4847a",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 40.24,
+    "hard_match_score": 100.0,
+    "soft_match_score": 0.41,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "3a8edbf4-e4d1-46f7-b8d1-6b270c37c0d5",
+    "evaluated_at": "2025-09-21T07:20:30.514768"
+  },
+  {
+    "resume_id": "b5d619c7-8928-4a15-a35e-1accc3672d68",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 40.24,
+    "hard_match_score": 100.0,
+    "soft_match_score": 0.41,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "ddde44f1-4a5d-4374-af05-4a4b73c9fb79",
+    "evaluated_at": "2025-09-21T07:20:30.530674"
+  },
+  {
+    "resume_id": "b984f52f-bbdb-455f-a130-83ca19672444",
+    "job_id": "sandevex_developer_20250921063620",
+    "relevance_score": 40.24,
+    "hard_match_score": 100.0,
+    "soft_match_score": 0.41,
+    "analysis": {
+      "matched_skills": [],
+      "missing_skills": [],
+      "experience_details": {
+        "resume_experience": 5,
+        "required_experience": "0-10 years"
+      }
+    },
+    "verdict": "LOW",
+    "feedback": {
+      "strengths": [],
+      "improvements": [],
+      "suggestions": []
+    },
+    "_id": "79c2f78b-30b0-474f-823e-35f5d3a5860a",
+    "evaluated_at": "2025-09-21T07:20:30.547622"
+  }
+]

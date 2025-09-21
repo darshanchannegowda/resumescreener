@@ -1,0 +1,3 @@
+Requirement already satisfied: plotly in c:\users\darsh\desktop\resumescreener\resume-relevance-system\venv\lib\site-packages (6.3.0)
+Requirement already satisfied: narwhals>=1.15.1 in c:\users\darsh\desktop\resumescreener\resume-relevance-system\venv\lib\site-packages (from plotly) (2.5.0)
+Requirement already satisfied: packaging in c:\users\darsh\desktop\resumescreener\resume-relevance-system\venv\lib\site-packages (from plotly) (23.2)

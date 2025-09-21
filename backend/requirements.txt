@@ -1,0 +1,50 @@
+# backend/requirements.txt
+# API / Web
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+pydantic<2.0.0
+python-multipart==0.0.6
+requests>=2.31.0
+
+# Database (optional - LocalStorage used by default)
+pymongo==4.5.0
+
+# Document processing
+PyMuPDF==1.23.8
+pdfplumber==0.10.3
+python-docx==1.1.0
+docx2txt==0.8
+PyPDF2==3.0.1
+
+# NLP / ML
+spacy==3.7.2
+nltk==3.8.1
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Embeddings & Vector DB
+sentence-transformers>=2.2.2
+huggingface-hub==0.23.4
+torch>=2.0.0
+
+# On Windows, faiss-cpu wheels are available for specific Python versions.
+# If you hit trouble installing faiss-cpu from pip, see the troubleshooting notes below.
+faiss-cpu>=1.12.0
+
+# Fuzzy matching (use a recent available release)
+rapidfuzz==3.14.1
+
+# Frontend / UI / plotting
+streamlit==1.29.0
+plotly>=5.0.0
+extra-streamlit-components>=0.1.58
+pyarrow>=14.0.0
+
+# Validation & misc
+email-validator==2.3.0
+
+# Testing / CI
+pytest>=7.0.0
+plotly>=5.0.0
